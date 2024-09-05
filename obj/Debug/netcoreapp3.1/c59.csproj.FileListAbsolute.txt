@@ -1,0 +1,13 @@
+D:\c59\bin\Debug\netcoreapp3.1\c59.exe
+D:\c59\bin\Debug\netcoreapp3.1\c59.deps.json
+D:\c59\bin\Debug\netcoreapp3.1\c59.runtimeconfig.json
+D:\c59\bin\Debug\netcoreapp3.1\c59.runtimeconfig.dev.json
+D:\c59\bin\Debug\netcoreapp3.1\c59.dll
+D:\c59\bin\Debug\netcoreapp3.1\c59.pdb
+D:\c59\obj\Debug\netcoreapp3.1\c59.csprojAssemblyReference.cache
+D:\c59\obj\Debug\netcoreapp3.1\c59.AssemblyInfoInputs.cache
+D:\c59\obj\Debug\netcoreapp3.1\c59.AssemblyInfo.cs
+D:\c59\obj\Debug\netcoreapp3.1\c59.csproj.CoreCompileInputs.cache
+D:\c59\obj\Debug\netcoreapp3.1\c59.dll
+D:\c59\obj\Debug\netcoreapp3.1\c59.pdb
+D:\c59\obj\Debug\netcoreapp3.1\c59.genruntimeconfig.cache
